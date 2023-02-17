@@ -19,12 +19,3 @@ const City = mongoose.model("city", userschema);
 module.exports =  City  ;
 
 
-// "city": "Kolkāta", 
-//     "lat": "22.5411", 
-//     "lng": "88.3378", 
-//     "country": "India", 
-//     "iso2": "IN", 
-//     "admin_name": "West Bengal", 
-//     "capital": "admin", 
-//     "population": "17560000", 
-//     "population_proper": "4496694"
